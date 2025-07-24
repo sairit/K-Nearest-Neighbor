@@ -1,7 +1,7 @@
 # K-Nearest Neighbors Implementation from Scratch
 
 **Author:** Sai Yadavalli  
-**Version:** 1.0
+**Version:** 2.1
 
 A comprehensive implementation of the K-Nearest Neighbors algorithm with automated hyperparameter optimization, k-fold cross-validation, and extensive performance analysis capabilities, built from scratch using NumPy and pandas.
 
